@@ -1,5 +1,5 @@
 {
-  "name": "bull-queue",
+  "name": "queue-sending-email",
   "version": "1.0.0",
   "main": "server.js",
   "author": "Mario Fernandes <mariobmf02@gmail.com>",
